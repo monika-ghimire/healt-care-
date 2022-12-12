@@ -1,0 +1,60 @@
+
+   *{
+    
+   }
+
+/* navbar */
+.topNav-wapper ul
+{
+    list-style: none;
+    display: flex;
+    padding-top:2%;
+
+ 
+}
+.navGroup-wapper ul{
+gap:60px;
+position: absolute;
+width:auto;
+left:50%;
+top: 10px;
+
+
+}
+.navGroup li{
+    Opacity: 50%
+ 
+}
+/* content */
+.content{
+   
+    
+}
+
+.Virtual-healthcare-heading {
+font-Weight:700;
+margin-top:8%;
+margin-left:4%;
+
+}
+.image-holder img{
+    width:600px;
+    height:500px;
+}
+    
+.Virtual-healthcare-paragraf{
+    color: #7D7987;
+    margin-top:5%;
+    margin-left:4%;
+}
+/* Consult-today-button */
+.Consult-today-button{
+    background:#458FF6;
+    padding:8px 20px;
+    border-radius:20px;
+    border: 0px;
+    margin-top:8%;
+    color: white;
+    margin-left:4%;
+
+}
