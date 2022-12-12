@@ -10,8 +10,8 @@ function App() {
    <div className='container'>
     {/* <Home/>
    <Servicepage/>
-   <Providerpage/> */}
-   <Reviewpage/>
+   <Providerpage/>
+   <Reviewpage/> */}
    </div>
 
    </>
