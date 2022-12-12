@@ -1,0 +1,57 @@
+.Our-services-heading{
+    font-weight: 700;
+    font-size:1.5em;
+    /* margin-left:47%; */
+    margin-top:9%;
+}
+.Our-services-heading-line{
+    height:2px;
+    width:5%;
+    background-color: black;
+    margin-left:48%;
+    border-radius:10px;
+}
+.contend-holder{
+    text-align: center;
+}
+.Our-services-paragraf
+{
+    margin-top:5%;
+    color: #7D7987;;
+}
+.our-services-content-box-holder{
+    text-align:justify;
+    background-color:#F9FAFD;
+    padding:4%;
+   
+}
+.box{
+    background-color:white;
+    padding:10%;
+    border-radius:10%;
+}
+.box-right-padding{
+    padding-right: 10px;
+    border-radius: 10%;
+    margin-left:2%;
+}
+.box-heading{
+    font-weight:700;
+    font-size:1.4em;
+    margin-top:9%;
+}
+
+.box-pragraf{
+    color: #7D7987;
+}
+.bottom{
+padding-top:5%;
+}
+
+.learn-more-btn{
+    padding: 0.7% 4%;
+    border:1px solid  #458FF6;
+    color:  #458FF6;
+    border-radius: 20px;
+    background-color: white;
+}
