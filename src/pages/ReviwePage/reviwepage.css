@@ -1,0 +1,40 @@
+.reviewpage-box
+{
+    border-radius: 10px;
+    padding:4% 10%;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+}
+.reviewpage-box ul{
+    display: flex;
+    list-style:none;
+}
+.reviewpage-box h4{
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+
+.user-data{
+    padding-top:10%;
+    margin-left:5%;
+}
+.user-name{
+    font-weight: 700;
+    color: white;
+}
+.user-postion{
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.85);
+
+}
+.user-detalis-holder{
+    padding-top:4%;
+}
+.user-reviwe
+{
+    color: rgba(255, 255, 255, 0.9);
+}
+.arrownav-img{
+    margin-left:33%;
+    padding-top:3%;
+}
