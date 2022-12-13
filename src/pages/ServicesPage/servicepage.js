@@ -6,6 +6,7 @@ import group4 from '../../assest/group4.png'
 import Frame1 from '../../assest/Frame1.png'
 import Frame2 from '../../assest/Frame2.png'
 import Frame3 from '../../assest/Frame3.png'
+import Vector from '../../assest/Vector.png'
 export default function servicepage() {
   return (
    <>
@@ -22,7 +23,8 @@ export default function servicepage() {
 
     <section>
         <div className='our-services-content-box-holder'>
-           <div className='row'>
+        <img src={Vector} className='backg-prant'/>
+           <div className='row service-gropu'>
             <div className='col'>
                 <div className='box'>
                     <img src={Group}/>
@@ -58,7 +60,7 @@ export default function servicepage() {
             </div>
            </div>
              {/* secondRow */}
-        <div className='row bottom'>
+        <div className='row bottom '>
             <div className='col'>
                 <div className='box'>
                     
