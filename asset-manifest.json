@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/healt-care-/static/css/main.14fb6074.css",
+    "main.js": "/healt-care-/static/js/main.e99d2f75.js",
+    "static/js/787.28cb0dcd.chunk.js": "/healt-care-/static/js/787.28cb0dcd.chunk.js",
+    "static/media/imgae1.png": "/healt-care-/static/media/imgae1.7ef37fcd72d49793fb43.png",
+    "static/media/provider2.png": "/healt-care-/static/media/provider2.017c0f36420164ea2b30.png",
+    "static/media/img3.png": "/healt-care-/static/media/img3.e6fab6b56c0ecd988637.png",
+    "static/media/provider1.png": "/healt-care-/static/media/provider1.374ab961b7ac1ea6f328.png",
+    "static/media/img4.png": "/healt-care-/static/media/img4.53b874a51f4160f4443e.png",
+    "static/media/img1.png": "/healt-care-/static/media/img1.65ca562ee6cdabfc6b06.png",
+    "static/media/userImg.png": "/healt-care-/static/media/userImg.40dd8109c06dae302024.png",
+    "index.html": "/healt-care-/index.html",
+    "main.14fb6074.css.map": "/healt-care-/static/css/main.14fb6074.css.map",
+    "main.e99d2f75.js.map": "/healt-care-/static/js/main.e99d2f75.js.map",
+    "787.28cb0dcd.chunk.js.map": "/healt-care-/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fb6074.css",
+    "static/js/main.e99d2f75.js"
+  ]
+}
