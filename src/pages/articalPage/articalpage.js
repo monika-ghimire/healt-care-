@@ -3,13 +3,15 @@ import './articalpage.css'
 import img1 from '../../assest/img1.png'
 import img4 from '../../assest/img4.png'
 import img3 from '../../assest/img3.png'
+import Vector2 from '../../assest/Vector2.png'
 export default function articalpage() {
   return (
     <>
     <div className='articalpage-cantent-wapper'>
+      <img src={Vector2} className='Vector-img'/>
       <div className=''>
         <h3 className='artical -heading'>Check out our latest article</h3>
-        <div className='row'>
+        <div className='row img-z-index'>
         <div className='col-4'>
         <div className='artical-wapper'>
             <img src={img4}/>
@@ -66,7 +68,7 @@ export default function articalpage() {
             
           </div>
         </div>
-           <button className='learn-more-btn'>Learn More</button>
+           <button className='learn-more-btn'>View all</button>
       </div>
     </div>
     </>

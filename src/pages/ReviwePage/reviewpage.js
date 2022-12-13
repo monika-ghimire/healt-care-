@@ -14,9 +14,9 @@ export default function reviewpage() {
                 <ul >
                     <li><img src={userimg}/></li>
                     <li className='user-data'><p className='user-name'>Edward Newgate</p>
-                        <span className='user-postion'>
+                        <p className='user-postion'>
                         Founder Circle
-                        </span>
+                        </p>
                     </li>
                 </ul>
             </div>

@@ -2,26 +2,26 @@
     font-weight: 700;
 }
 .provider-content-wapper{
-    margin-top:4%;
+    margin-top:10%;
+  
 }
 .providers-explation
 {
     color: #7D7987;
 }
 .provider-images-holder img{
-    width:90%;
-    height:400px;
-    padding-top:5%;
+    width:100%;
+    padding-top:1%;
 }
 .provider-explation{
     padding:15%;
 }
 
-.learn-more-btn{
+.learn-more-btn-provider{
     padding: 0.7% 4%;
     border:1px solid  #458FF6;
     color:  #458FF6;
     border-radius: 20px;
     background-color: white;
-    margin-top:3%;
+   margin-top: 2%;
 }

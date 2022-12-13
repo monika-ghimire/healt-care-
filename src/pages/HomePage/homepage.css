@@ -18,10 +18,7 @@ top: 10px;
 
 
 }
-.navGroup li{
-    Opacity: 50%
- 
-}
+
 /* content */
 .content{
    
@@ -56,4 +53,14 @@ font-size:2.8em;
     color: white;
     margin-left:4%;
 
+}
+
+.navGroup li{
+    color: #7D7987;
+ 
+}
+.navGroup li p{
+    font-weight:700em;
+    color: black !important
+   
 }
