@@ -1,0 +1,45 @@
+.articalpage-cantent-wapper{
+ padding-top:8%;
+}
+.articalpage-cantent-wapper img{
+  padding:0%;
+width:100%;
+border-radius:20px;
+}
+
+.artical-heading{
+    font-weight: 700;
+}
+.artical-title-heading{
+    font-weight: 700;
+}
+.articalpage-cantent-wapper h3{
+    text-align: center;
+}
+.row{
+    padding-top:5%;
+}
+.artical-title{
+    color: #7D7987;
+    padding-top:3%;
+}
+.title-wapper{
+    padding:25px;
+}
+.col-4{
+  padding:2%;
+  background-color: #f5f1fd;
+}
+.artical-wapper{
+   background: white;
+   border-radius:20px;
+}
+.learn-more-btn{
+    padding: 0.7% 4%;
+    border:1px solid  #458FF6;
+    color:  #458FF6;
+    border-radius: 20px;
+    background-color: white;
+    margin-left:43%;
+
+}
