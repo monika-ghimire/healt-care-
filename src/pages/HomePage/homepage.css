@@ -1,8 +1,5 @@
 
-   *{
-    
-   }
-
+  
 /* navbar */
 .topNav-wapper ul
 {
@@ -35,6 +32,8 @@ top: 10px;
 font-Weight:700;
 margin-top:8%;
 margin-left:4%;
+line-height: 56px;
+font-size:2.8em;
 
 }
 .image-holder img{

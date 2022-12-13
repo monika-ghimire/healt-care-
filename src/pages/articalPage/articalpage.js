@@ -66,7 +66,7 @@ export default function articalpage() {
             
           </div>
         </div>
-        <button className='learn-more-btn'>Learn More</button>
+           <button className='learn-more-btn'>Learn More</button>
       </div>
     </div>
     </>

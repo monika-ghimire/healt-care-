@@ -5,16 +5,20 @@ import Servicepage from './pages/ServicesPage/servicepage';
 import Providerpage from './pages/ProvidersPage/providerpage'
 import Reviewpage from './pages/ReviwePage/reviewpage'
 import Articlepage from './pages/articalPage/articalpage';
+import Footerpage from './pages/footerpage/footerpage';
 function App() {
   return (
    <>
    <div className='container'>
-    {/* <Home/>
+    <Home/>
    <Servicepage/>
    <Providerpage/>
-   <Reviewpage/> */}
-   <Articlepage/>
+   <Reviewpage/> 
+    <Articlepage/>
+
+   
    </div>
+   <Footerpage/>
 
    </>
   );

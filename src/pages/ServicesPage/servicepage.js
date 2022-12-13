@@ -98,7 +98,7 @@ export default function servicepage() {
 
         </div>
 
-         <button className='learn-more-btn'>Learn More</button>
+         <button className='learn-more-btn-services'>Learn More</button>
     </section>
 
     
