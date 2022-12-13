@@ -30,8 +30,6 @@ border-radius:20px;
     padding:25px;
 }
 .col-4{
-   
-   
   padding:2%;
   box-shadow: 10px 40px 50px rgba(205, 207, 213, 0.4);
 }
@@ -49,10 +47,10 @@ border-radius:20px;
     margin-top:53%;
 
 }
-.row{
+.img-z-index{
     position: absolute;
     z-index:1;
-}
+} 
 .Vector-img{
  position: absolute;
    width:30% !important;

@@ -11,7 +11,7 @@ export default function articalpage() {
       <img src={Vector2} className='Vector-img'/>
       <div className=''>
         <h3 className='artical -heading'>Check out our latest article</h3>
-        <div className='row'>
+        <div className='row img-z-index'>
         <div className='col-4'>
         <div className='artical-wapper'>
             <img src={img4}/>

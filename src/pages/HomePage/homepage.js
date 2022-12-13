@@ -14,7 +14,7 @@ export default function homepage() {
                             <li><img src={Logo} /></li>
                             <li className='navGroup-wapper' >
                                 <ul className='navGroup'>
-                                    <li>Home</li>
+                                    <li ><p className='active'>Home</p></li>
                                     <li>Find a doctor</li>
                                     <li>Apps</li>
                                     <li>Testimonials</li>

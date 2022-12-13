@@ -11,12 +11,11 @@ function App() {
    <>
    <div className='container'>
     <Home/>
-   <Servicepage/>
-   <Providerpage/>
-   <Reviewpage/> 
+    <Servicepage/>
+    <Providerpage/>
+    <Reviewpage/>
     <Articlepage/>
 
-   
    </div>
    <Footerpage/>
 

@@ -13,7 +13,9 @@
     font-weight: 700;
     color: white;
 }
-
+.user-detalis-holder img{
+    width: 90%;
+}
 .user-data{
     padding-top:10%;
     margin-left:5%;
@@ -39,5 +41,5 @@
     padding-top:3%;
 }
 .reviewpage-content-warrper{
-    padding-top:17%;
+    margin-top:15%;
 }
